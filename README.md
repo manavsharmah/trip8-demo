@@ -33,7 +33,7 @@ Trip8 is a React Native mobile application designed for discovering, customizing
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/Trip8-mobile-app.git
+   git clone [https://github.com/manavsharmah/trip8-demo.git]
    cd Trip8-mobile-app
    ```
 
