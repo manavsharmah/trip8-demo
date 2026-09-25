@@ -1,0 +1,993 @@
+[
+  {
+    "id": "kaziranga-3d-2n",
+    "slug": "kaziranga-wildlife-brahmaputra-escape",
+    "title": "Kaziranga Wildlife & Brahmaputra Escape",
+    "region": "Assam",
+    "duration": "3D / 2N",
+    "days": 3,
+    "nights": 2,
+    "price": 18000,
+    "description": "Experience the raw beauty of Assam with thrilling jeep safaris through Kaziranga National Park, a serene Brahmaputra river cruise, and an immersive dive into authentic Assamese culture and cuisine.",
+    "heroImage": "https://images.unsplash.com/photo-1585753738828-e1e0b1000f7e?w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1585753738828-e1e0b1000f7e?w=600&q=80",
+      "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=600&q=80",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80",
+      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=600&q=80"
+    ],
+    "quickFacts": {
+      "bestSeason": "Nov – Apr",
+      "vehicleType": "SUV / Jeep",
+      "stayType": "Resort & Lodge",
+      "safetyRating": "4.8 / 5"
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Guwahati & Transfer to Kaziranga",
+        "distance": "220 km",
+        "duration": "5 hours",
+        "activities": [
+          "Airport pickup from Guwahati",
+          "Scenic drive through Assam tea country",
+          "Check-in at Kaziranga resort",
+          "Evening cultural performance with Bihu dance"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Kaziranga Safari & Brahmaputra Cruise",
+        "distance": "40 km",
+        "duration": "Full day",
+        "activities": [
+          "Early morning jeep safari in Central Range",
+          "Spot one-horned rhinoceros and wild elephants",
+          "Afternoon elephant safari in Western Range",
+          "Sunset Brahmaputra river cruise with refreshments"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Kaziranga Exploration & Departure",
+        "distance": "220 km",
+        "duration": "6 hours",
+        "activities": [
+          "Morning bird-watching walk",
+          "Visit local Mishing tribal village",
+          "Traditional Assamese lunch",
+          "Transfer back to Guwahati airport"
+        ]
+      }
+    ],
+    "highlights": [
+      "Jeep safari to spot the iconic one-horned rhinoceros",
+      "Brahmaputra river sunset cruise",
+      "Authentic Assamese cuisine and cultural experience",
+      "Visit to Mishing tribal village",
+      "Tea garden scenic drive"
+    ],
+    "inclusions": [
+      "2 nights accommodation in resort/lodge",
+      "All meals (breakfast, lunch, dinner)",
+      "SUV/Jeep for all transfers and safaris",
+      "Airport pickup and drop",
+      "Experienced naturalist guide",
+      "All fuel, tolls, and parking charges"
+    ],
+    "faqs": [
+      {
+        "question": "What is the best time to visit Kaziranga?",
+        "answer": "The park is open from November to April. February to March offers the best wildlife sighting opportunities as the grasslands are shorter."
+      },
+      {
+        "question": "Will I definitely see a rhinoceros?",
+        "answer": "Kaziranga has the highest density of one-horned rhinos in the world. While wildlife sightings can never be guaranteed, the success rate is extremely high — over 95% of visitors spot at least one rhino."
+      },
+      {
+        "question": "Is the jeep safari safe?",
+        "answer": "Yes, all safaris are conducted with experienced forest guides and follow strict park safety protocols. Vehicles maintain safe distances from animals at all times."
+      }
+    ],
+    "category": "Wildlife & Nature",
+    "isTrending": true
+  },
+  {
+    "id": "meghalaya-5d-4n",
+    "slug": "shillong-cherrapunji-dawki-adventure",
+    "title": "Shillong, Cherrapunji & Dawki Adventure",
+    "region": "Meghalaya",
+    "duration": "5D / 4N",
+    "days": 5,
+    "nights": 4,
+    "price": 32000,
+    "description": "Discover the 'Abode of Clouds' — from the crystal-clear waters of Dawki River to the magnificent waterfalls of Cherrapunji, ancient living root bridges, and the charming hill station of Shillong.",
+    "heroImage": "https://images.unsplash.com/photo-1597735881932-d9664c9bbcea?w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1597735881932-d9664c9bbcea?w=600&q=80",
+      "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=600&q=80",
+      "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=600&q=80",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=600&q=80",
+      "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=600&q=80"
+    ],
+    "quickFacts": {
+      "bestSeason": "Oct – May",
+      "vehicleType": "SUV / Innova",
+      "stayType": "Hotels & Homestays",
+      "safetyRating": "4.7 / 5"
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Shillong — Scotland of the East",
+        "distance": "100 km from Guwahati",
+        "duration": "3 hours",
+        "activities": [
+          "Pickup from Guwahati airport/station",
+          "Scenic drive to Shillong via Umiam Lake viewpoint",
+          "Check-in and freshen up",
+          "Evening walk at Police Bazar & local street food"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Cherrapunji — Land of Waterfalls",
+        "distance": "55 km",
+        "duration": "2 hours",
+        "activities": [
+          "Drive to Cherrapunji (Sohra)",
+          "Visit Nohkalikai Falls — India's tallest plunge waterfall",
+          "Explore Mawsmai Cave",
+          "Visit Seven Sisters Falls viewpoint",
+          "Eco Park walk and sunset views"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Living Root Bridges & Nongriat Trek",
+        "distance": "15 km trek",
+        "duration": "Full day",
+        "activities": [
+          "Trek to Double Decker Living Root Bridge",
+          "Swim in natural rock pools at Rainbow Falls",
+          "Packed lunch amidst the forest",
+          "Return trek and rest"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Dawki — Crystal Clear River",
+        "distance": "95 km",
+        "duration": "3 hours",
+        "activities": [
+          "Drive to Dawki on the Bangladesh border",
+          "Boating on the crystal-clear Umngot River",
+          "Visit Mawlynnong — Asia's cleanest village",
+          "Living Root Bridge at Riwai village",
+          "Return to Shillong"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Shillong Sightseeing & Departure",
+        "distance": "100 km to Guwahati",
+        "duration": "4 hours",
+        "activities": [
+          "Visit Don Bosco Museum",
+          "Cathedral of Mary Help of Christians",
+          "Ward's Lake morning walk",
+          "Departure transfer to Guwahati"
+        ]
+      }
+    ],
+    "highlights": [
+      "Boating on the crystal-clear Dawki River",
+      "Trek to the Double Decker Living Root Bridge",
+      "Nohkalikai Falls — India's tallest plunge waterfall",
+      "Mawlynnong — Asia's cleanest village",
+      "Mawsmai Cave exploration"
+    ],
+    "inclusions": [
+      "4 nights accommodation (hotels & homestays)",
+      "Daily breakfast and dinner",
+      "SUV/Innova for all transfers",
+      "Airport/station pickup and drop",
+      "Local guide for treks",
+      "All fuel, tolls, and parking charges"
+    ],
+    "faqs": [
+      {
+        "question": "How difficult is the Living Root Bridge trek?",
+        "answer": "The trek involves approximately 3,500 steps each way. It's of moderate difficulty — a reasonable level of fitness is recommended. We provide an experienced local guide and suggest starting early to avoid the midday heat."
+      },
+      {
+        "question": "Does it rain a lot in Meghalaya?",
+        "answer": "Cherrapunji is one of the wettest places on Earth, but October to May is relatively dry and the best time to visit. Light rain is always possible — we recommend packing a rain jacket."
+      },
+      {
+        "question": "Is the Dawki River really that clear?",
+        "answer": "Yes! The Umngot River at Dawki is famous for its crystal-clear turquoise water, especially from November to March. Boats appear to float on air — it's a surreal experience."
+      }
+    ],
+    "category": "Adventure & Nature",
+    "isTrending": true
+  },
+  {
+    "id": "tawang-7d-6n",
+    "slug": "tawang-snow-monastery-expedition",
+    "title": "Tawang Snow & Monastery Expedition",
+    "region": "Arunachal Pradesh",
+    "duration": "7D / 6N",
+    "days": 7,
+    "nights": 6,
+    "price": 58000,
+    "description": "Journey to the mystical land of Arunachal Pradesh — cross the legendary Sela Pass at 13,700 ft, visit India's largest monastery in Tawang, and witness breathtaking snow-capped Himalayan panoramas.",
+    "heroImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=600&q=80",
+      "https://images.unsplash.com/photo-1486870591958-9b9d0d1dda99?w=600&q=80",
+      "https://images.unsplash.com/photo-1454496522488-7a8e488e8606?w=600&q=80",
+      "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600&q=80",
+      "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?w=600&q=80"
+    ],
+    "quickFacts": {
+      "bestSeason": "Mar – Jun, Sep – Nov",
+      "vehicleType": "SUV (4x4)",
+      "stayType": "Hotels & Guesthouses",
+      "safetyRating": "4.5 / 5"
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Guwahati & Transfer to Bhalukpong",
+        "distance": "250 km",
+        "duration": "6 hours",
+        "activities": [
+          "Airport pickup from Guwahati",
+          "Drive through Assam plains to Arunachal border",
+          "Inner Line Permit check at Bhalukpong",
+          "Check-in at riverside resort",
+          "Evening walk by the Jia Bharali river"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Bhalukpong to Dirang via Bomdila",
+        "distance": "180 km",
+        "duration": "7 hours",
+        "activities": [
+          "Scenic mountain drive with elevation gain",
+          "Stop at Bomdila Monastery",
+          "Visit Bomdila viewpoint for Himalayan panorama",
+          "Continue to Dirang valley",
+          "Hot spring visit near Dirang"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Dirang to Tawang via Sela Pass",
+        "distance": "140 km",
+        "duration": "6 hours",
+        "activities": [
+          "Drive across Sela Pass (13,700 ft)",
+          "Stop at Sela Lake — frozen in winter",
+          "Visit Jaswant Garh War Memorial",
+          "Arrive in Tawang town",
+          "Evening visit to local market"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Tawang Monastery & Local Exploration",
+        "distance": "30 km",
+        "duration": "Full day",
+        "activities": [
+          "Visit Tawang Monastery — India's largest Buddhist monastery",
+          "Explore the monastery museum and prayer hall",
+          "Visit the Craft Centre & Emporium",
+          "Tawang War Memorial — light and sound show (evening)"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Madhuri Lake & Bum La Pass",
+        "distance": "75 km",
+        "duration": "Full day",
+        "activities": [
+          "Drive to Bum La Pass (India-China border, subject to army permission)",
+          "Visit Madhuri Lake (Sangetsar Lake)",
+          "PTSO Lake stop",
+          "Return to Tawang for rest"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Tawang to Bomdila",
+        "distance": "180 km",
+        "duration": "7 hours",
+        "activities": [
+          "Return journey via Sela Pass",
+          "Different light and weather on the return",
+          "Stop at Nuranang Falls (Jang Falls)",
+          "Overnight in Bomdila"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Bomdila to Guwahati — Departure",
+        "distance": "320 km",
+        "duration": "9 hours",
+        "activities": [
+          "Early morning departure",
+          "Drive through Arunachal and Assam",
+          "Lunch stop en route",
+          "Drop at Guwahati airport/station"
+        ]
+      }
+    ],
+    "highlights": [
+      "Sela Pass crossing at 13,700 ft with snow-capped views",
+      "Tawang Monastery — India's largest Buddhist monastery",
+      "Madhuri Lake (Sangetsar Lake) alpine beauty",
+      "Jaswant Garh War Memorial",
+      "Bum La Pass — India-China border viewpoint"
+    ],
+    "inclusions": [
+      "6 nights accommodation (hotels & guesthouses)",
+      "All meals (breakfast, lunch, dinner)",
+      "4x4 SUV for the entire trip",
+      "Airport pickup and drop",
+      "Experienced mountain driver",
+      "Inner Line Permit assistance",
+      "All fuel, tolls, and parking charges"
+    ],
+    "faqs": [
+      {
+        "question": "Do I need a special permit for Arunachal Pradesh?",
+        "answer": "Yes, Indian citizens need an Inner Line Permit (ILP). We handle the complete permit process for you — just share your ID proof and photos before the trip."
+      },
+      {
+        "question": "Is altitude sickness a concern?",
+        "answer": "Sela Pass reaches 13,700 ft. Most travelers handle it fine with gradual acclimatization (our itinerary is designed for this). We recommend staying hydrated and avoiding heavy exertion at altitude."
+      },
+      {
+        "question": "Can Bum La Pass visit be guaranteed?",
+        "answer": "Bum La Pass requires special Indian Army permission that is granted on a day-to-day basis. We apply for it, but it depends on weather and security conditions. If denied, we substitute with alternative sightseeing."
+      }
+    ],
+    "category": "Mountains & Monastery",
+    "isTrending": true
+  },
+  {
+    "id": "meghalaya-4d-3n",
+    "slug": "meghalaya-short-escape",
+    "title": "Meghalaya Short Escape",
+    "region": "Meghalaya",
+    "duration": "4D / 3N",
+    "days": 4,
+    "nights": 3,
+    "price": 24000,
+    "description": "A compact getaway to Meghalaya's greatest hits — Shillong's charm, Cherrapunji's waterfalls, and the crystal-clear Dawki River, all in a long weekend.",
+    "heroImage": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=600&q=80",
+      "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=600&q=80",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=600&q=80",
+      "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=600&q=80"
+    ],
+    "quickFacts": {
+      "bestSeason": "Oct – May",
+      "vehicleType": "SUV / Innova",
+      "stayType": "Hotels",
+      "safetyRating": "4.7 / 5"
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Guwahati to Shillong",
+        "distance": "100 km",
+        "duration": "3 hours",
+        "activities": [
+          "Airport pickup from Guwahati",
+          "Photo stop at Umiam Lake",
+          "Check-in at Shillong hotel",
+          "Evening exploration of Police Bazar"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Cherrapunji Day Trip",
+        "distance": "110 km round trip",
+        "duration": "Full day",
+        "activities": [
+          "Drive to Cherrapunji",
+          "Nohkalikai Falls viewpoint",
+          "Mawsmai Cave exploration",
+          "Seven Sisters Falls",
+          "Return to Shillong"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Dawki & Mawlynnong",
+        "distance": "190 km round trip",
+        "duration": "Full day",
+        "activities": [
+          "Drive to Dawki",
+          "Boating on the Umngot River",
+          "Mawlynnong — Asia's cleanest village",
+          "Living Root Bridge at Riwai",
+          "Return to Shillong"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Shillong Sightseeing & Departure",
+        "distance": "100 km",
+        "duration": "4 hours",
+        "activities": [
+          "Ward's Lake and Don Bosco Museum",
+          "Elephant Falls",
+          "Transfer to Guwahati airport"
+        ]
+      }
+    ],
+    "highlights": [
+      "Crystal-clear Dawki River boating",
+      "Nohkalikai Falls — tallest plunge waterfall in India",
+      "Mawlynnong — Asia's cleanest village",
+      "Mawsmai Cave exploration"
+    ],
+    "inclusions": [
+      "3 nights hotel accommodation",
+      "Daily breakfast",
+      "SUV/Innova for all transfers",
+      "Airport pickup and drop",
+      "All fuel, tolls, and parking"
+    ],
+    "faqs": [
+      {
+        "question": "Is 4 days enough for Meghalaya?",
+        "answer": "This itinerary covers all the must-see highlights efficiently. For the Living Root Bridge trek and deeper exploration, consider the 5D/4N or 7D/6N packages."
+      },
+      {
+        "question": "What should I pack?",
+        "answer": "Comfortable walking shoes, light rain jacket, sunscreen, and layers — Shillong can be cool even in warmer months."
+      }
+    ],
+    "category": "Adventure & Nature",
+    "isTrending": false
+  },
+  {
+    "id": "meghalaya-7d-6n",
+    "slug": "ultimate-meghalaya-grand-tour",
+    "title": "Ultimate Meghalaya Grand Tour",
+    "region": "Meghalaya",
+    "duration": "7D / 6N",
+    "days": 7,
+    "nights": 6,
+    "price": 45000,
+    "description": "The most comprehensive Meghalaya experience — waterfalls, caves, crystal rivers, living root bridges, remote villages, and adventure activities including caving, kayaking, and cliff jumping.",
+    "heroImage": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=600&q=80",
+      "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=600&q=80",
+      "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=600&q=80",
+      "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=600&q=80",
+      "https://images.unsplash.com/photo-1597735881932-d9664c9bbcea?w=600&q=80"
+    ],
+    "quickFacts": {
+      "bestSeason": "Oct – May",
+      "vehicleType": "SUV / Innova",
+      "stayType": "Hotels & Homestays",
+      "safetyRating": "4.6 / 5"
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Shillong",
+        "distance": "100 km",
+        "duration": "3 hours",
+        "activities": [
+          "Guwahati airport pickup",
+          "Umiam Lake photo stop and viewpoint",
+          "Check-in at Shillong hotel",
+          "Evening walk through Laitumkhrah"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Shillong Sightseeing",
+        "distance": "30 km",
+        "duration": "Full day",
+        "activities": [
+          "Don Bosco Museum — 7 floors of tribal culture",
+          "Ward's Lake gardens",
+          "Elephant Falls",
+          "Shillong Peak panoramic views",
+          "Café hopping in the city"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Cherrapunji — Waterfalls & Caves",
+        "distance": "55 km",
+        "duration": "Full day",
+        "activities": [
+          "Drive to Cherrapunji",
+          "Nohkalikai Falls and Seven Sisters Falls",
+          "Mawsmai Cave with formations",
+          "Eco Park cliff-edge walk",
+          "Stay in Cherrapunji"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Living Root Bridges & Nongriat",
+        "distance": "15 km trek",
+        "duration": "Full day",
+        "activities": [
+          "Trek to Double Decker Living Root Bridge",
+          "Natural swimming pools",
+          "Rainbow Falls (if time permits)",
+          "Overnight in Nongriat or return to Cherrapunji"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Dawki & Mawlynnong",
+        "distance": "120 km",
+        "duration": "Full day",
+        "activities": [
+          "Drive to Dawki",
+          "Boating on the crystal Umngot River",
+          "Snorkeling in Dawki (seasonal)",
+          "Mawlynnong village visit and Living Root Bridge",
+          "Stay in Shillong or Dawki"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Jaintia Hills & Krang Suri Falls",
+        "distance": "150 km",
+        "duration": "Full day",
+        "activities": [
+          "Drive to Jaintia Hills",
+          "Krang Suri Falls — turquoise waterfall pool",
+          "Swimming and cliff jumping",
+          "Nartiang monoliths — largest in the world",
+          "Return to Shillong"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Departure",
+        "distance": "100 km",
+        "duration": "3 hours",
+        "activities": [
+          "Morning at leisure",
+          "Last-minute souvenir shopping",
+          "Transfer to Guwahati airport"
+        ]
+      }
+    ],
+    "highlights": [
+      "Double Decker Living Root Bridge trek",
+      "Dawki River boating and snorkeling",
+      "Krang Suri Falls swimming and cliff jumping",
+      "Nohkalikai Falls — India's tallest plunge waterfall",
+      "Complete Cherrapunji cave and waterfall experience"
+    ],
+    "inclusions": [
+      "6 nights accommodation (hotels & homestays)",
+      "Daily breakfast and dinner",
+      "SUV/Innova for all transfers",
+      "Local trekking guide",
+      "Airport pickup and drop",
+      "All fuel, tolls, and parking charges"
+    ],
+    "faqs": [
+      {
+        "question": "How fit do I need to be for this tour?",
+        "answer": "The Nongriat trek (Day 4) is moderately challenging with ~3,500 steps. Other days involve light walking. A basic fitness level is sufficient for most activities."
+      },
+      {
+        "question": "Can activities like cliff jumping be skipped?",
+        "answer": "Absolutely! All adventure activities are optional. You can enjoy the scenery and swimming without any extreme activities."
+      },
+      {
+        "question": "Is the snorkeling in Dawki safe?",
+        "answer": "Yes, the river is calm and shallow in the snorkeling areas. Equipment and guidance are provided. It's available October to March when water clarity is at its best."
+      }
+    ],
+    "category": "Adventure & Nature",
+    "isTrending": false
+  },
+  {
+    "id": "tawang-scenic-5d-4n",
+    "slug": "tawang-scenic-escape",
+    "title": "Tawang Scenic Escape",
+    "region": "Assam + Arunachal",
+    "duration": "5D / 4N",
+    "days": 5,
+    "nights": 4,
+    "price": 35000,
+    "description": "A scenic journey from the plains of Guwahati through Bomdila's orchid-rich valleys to the high-altitude spiritual town of Tawang, crossing the legendary Sela Pass.",
+    "heroImage": "https://images.unsplash.com/photo-1486870591958-9b9d0d1dda99?w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1486870591958-9b9d0d1dda99?w=600&q=80",
+      "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=600&q=80",
+      "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600&q=80",
+      "https://images.unsplash.com/photo-1454496522488-7a8e488e8606?w=600&q=80"
+    ],
+    "quickFacts": {
+      "bestSeason": "Mar – Jun, Sep – Nov",
+      "vehicleType": "SUV (4x4)",
+      "stayType": "Hotels & Guesthouses",
+      "safetyRating": "4.5 / 5"
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Guwahati to Bomdila",
+        "distance": "320 km",
+        "duration": "9 hours",
+        "activities": [
+          "Early morning pickup from Guwahati",
+          "Drive through tea gardens and foothills",
+          "ILP check at Bhalukpong",
+          "Arrive Bomdila by evening",
+          "Visit local monastery if time permits"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Bomdila to Tawang via Sela Pass",
+        "distance": "180 km",
+        "duration": "8 hours",
+        "activities": [
+          "Cross Sela Pass at 13,700 ft",
+          "Photo stop at frozen Sela Lake",
+          "Jaswant Garh War Memorial visit",
+          "Arrive Tawang by evening"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Tawang Full Day Exploration",
+        "distance": "20 km",
+        "duration": "Full day",
+        "activities": [
+          "Tawang Monastery — India's largest",
+          "Tawang War Memorial and light show",
+          "Craft Centre shopping",
+          "Local Monpa cuisine dinner"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Tawang to Bomdila",
+        "distance": "180 km",
+        "duration": "8 hours",
+        "activities": [
+          "Morning views of Tawang valley",
+          "Return via Sela Pass",
+          "Stop at Nuranang Falls",
+          "Overnight in Bomdila"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Bomdila to Guwahati — Departure",
+        "distance": "320 km",
+        "duration": "9 hours",
+        "activities": [
+          "Bomdila viewpoint sunrise",
+          "Drive back to Guwahati",
+          "Drop at airport/station"
+        ]
+      }
+    ],
+    "highlights": [
+      "Sela Pass at 13,700 ft elevation",
+      "Tawang Monastery — India's largest Buddhist monastery",
+      "Jaswant Garh War Memorial",
+      "Nuranang (Jang) Falls",
+      "Scenic mountain driving"
+    ],
+    "inclusions": [
+      "4 nights accommodation",
+      "All meals (breakfast, lunch, dinner)",
+      "4x4 SUV for entire trip",
+      "Airport pickup and drop",
+      "ILP arrangement",
+      "All fuel, tolls, parking"
+    ],
+    "faqs": [
+      {
+        "question": "Is the road to Tawang safe?",
+        "answer": "The roads are mountain roads maintained by BRO (Border Roads Organisation). Our experienced drivers are familiar with every turn. We use 4x4 vehicles for maximum safety."
+      },
+      {
+        "question": "What's the weather like in Tawang?",
+        "answer": "Tawang is cold year-round. Even in summer, temperatures range 5-20°C. In winter, it can drop below freezing. Pack heavy woolens regardless of season."
+      }
+    ],
+    "category": "Mountains & Monastery",
+    "isTrending": false
+  },
+  {
+    "id": "tawang-himalayan-6d-5n",
+    "slug": "tawang-himalayan-explorer",
+    "title": "Tawang Himalayan Explorer",
+    "region": "Assam + Arunachal",
+    "duration": "6D / 5N",
+    "days": 6,
+    "nights": 5,
+    "price": 42000,
+    "description": "An extended exploration of Arunachal's Himalayan corridor — Bomdila orchids, Dirang valley hot springs, Sela Pass snows, Tawang Monastery prayers, and the legendary Jaswant Garh memorial.",
+    "heroImage": "https://images.unsplash.com/photo-1454496522488-7a8e488e8606?w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1454496522488-7a8e488e8606?w=600&q=80",
+      "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=600&q=80",
+      "https://images.unsplash.com/photo-1486870591958-9b9d0d1dda99?w=600&q=80",
+      "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?w=600&q=80",
+      "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600&q=80"
+    ],
+    "quickFacts": {
+      "bestSeason": "Mar – Jun, Sep – Nov",
+      "vehicleType": "SUV (4x4)",
+      "stayType": "Hotels & Guesthouses",
+      "safetyRating": "4.6 / 5"
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Guwahati to Bhalukpong",
+        "distance": "250 km",
+        "duration": "6 hours",
+        "activities": [
+          "Airport pickup from Guwahati",
+          "Scenic drive through Assam",
+          "ILP verification at Bhalukpong",
+          "Riverside stay and nature walk"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Bhalukpong to Dirang",
+        "distance": "150 km",
+        "duration": "6 hours",
+        "activities": [
+          "Drive through orchid-rich valleys",
+          "Bomdila Monastery visit",
+          "Bomdila viewpoint",
+          "Hot spring bath near Dirang",
+          "Explore Dirang Dzong (fort)"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Dirang to Tawang via Sela Pass",
+        "distance": "140 km",
+        "duration": "6 hours",
+        "activities": [
+          "Cross Sela Pass (13,700 ft)",
+          "Sela Lake and snow-capped views",
+          "Jaswant Garh War Memorial",
+          "Arrive in Tawang town"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Tawang Monastery & Sightseeing",
+        "distance": "25 km",
+        "duration": "Full day",
+        "activities": [
+          "Tawang Monastery full visit",
+          "Monastery museum and library",
+          "Urgelling Monastery — birthplace of 6th Dalai Lama",
+          "Tawang War Memorial light & sound show"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Tawang to Bomdila",
+        "distance": "180 km",
+        "duration": "7 hours",
+        "activities": [
+          "Morning Tawang valley views",
+          "Return via Sela Pass",
+          "Nuranang Falls stop",
+          "Overnight in Bomdila"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Bomdila to Guwahati — Departure",
+        "distance": "320 km",
+        "duration": "9 hours",
+        "activities": [
+          "Early departure from Bomdila",
+          "Scenic downhill drive",
+          "Lunch en route",
+          "Airport/station drop in Guwahati"
+        ]
+      }
+    ],
+    "highlights": [
+      "Dirang Valley hot springs and fort",
+      "Bomdila Monastery and orchid valleys",
+      "Sela Pass (13,700 ft) snow crossing",
+      "Tawang Monastery and War Memorial",
+      "Jaswant Garh memorial visit"
+    ],
+    "inclusions": [
+      "5 nights accommodation",
+      "All meals included",
+      "4x4 SUV for entire duration",
+      "Airport pickup and drop",
+      "ILP processing",
+      "Experienced mountain driver",
+      "All fuel, tolls, and parking"
+    ],
+    "faqs": [
+      {
+        "question": "How is this different from the 5D/4N Tawang package?",
+        "answer": "This package adds an extra day in Dirang valley, including hot springs, the Dzong fort, and more time to acclimatize. It also includes the Urgelling Monastery visit in Tawang."
+      },
+      {
+        "question": "Can I extend the trip to include Bum La Pass?",
+        "answer": "Yes! Check our 7D/6N Ultimate Arunachal Grand Tour which includes Bum La Pass and Madhuri Lake on top of everything in this package."
+      }
+    ],
+    "category": "Mountains & Monastery",
+    "isTrending": false
+  },
+  {
+    "id": "arunachal-grand-7d-6n",
+    "slug": "ultimate-arunachal-grand-tour",
+    "title": "Ultimate Arunachal Grand Tour",
+    "region": "Assam + Arunachal",
+    "duration": "7D / 6N",
+    "days": 7,
+    "nights": 6,
+    "price": 55000,
+    "description": "The definitive Arunachal Pradesh experience — from Tawang Monastery to Bum La Pass on the Indo-China border, Madhuri Lake's alpine beauty, Dirang's valleys, and the full might of the Eastern Himalayas.",
+    "heroImage": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600&q=80",
+      "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=600&q=80",
+      "https://images.unsplash.com/photo-1486870591958-9b9d0d1dda99?w=600&q=80",
+      "https://images.unsplash.com/photo-1454496522488-7a8e488e8606?w=600&q=80",
+      "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?w=600&q=80"
+    ],
+    "quickFacts": {
+      "bestSeason": "Mar – Jun, Sep – Nov",
+      "vehicleType": "SUV (4x4)",
+      "stayType": "Hotels & Guesthouses",
+      "safetyRating": "4.5 / 5"
+    },
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Guwahati to Bhalukpong",
+        "distance": "250 km",
+        "duration": "6 hours",
+        "activities": [
+          "Airport pickup from Guwahati",
+          "Drive through North Bank of Brahmaputra",
+          "ILP check at Bhalukpong gate",
+          "Stay at riverside camp/resort"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Bhalukpong to Dirang via Bomdila",
+        "distance": "180 km",
+        "duration": "7 hours",
+        "activities": [
+          "Mountain ascent through pine forests",
+          "Bomdila Monastery and viewpoint",
+          "Apple orchards of Dirang valley",
+          "Hot spring visit",
+          "Dirang Dzong exploration"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Dirang to Tawang via Sela Pass",
+        "distance": "140 km",
+        "duration": "6 hours",
+        "activities": [
+          "Sela Pass crossing (13,700 ft)",
+          "Frozen Sela Lake stop",
+          "Jaswant Garh War Memorial",
+          "Nuranang Falls",
+          "Evening in Tawang"
+        ]
+      },
+      {
+        "day": 4,
+        "title": "Tawang Full Exploration",
+        "distance": "30 km",
+        "duration": "Full day",
+        "activities": [
+          "Tawang Monastery — largest in India",
+          "Urgelling Monastery",
+          "Craft Centre and local market",
+          "War Memorial light and sound show"
+        ]
+      },
+      {
+        "day": 5,
+        "title": "Bum La Pass & Madhuri Lake",
+        "distance": "75 km",
+        "duration": "Full day",
+        "activities": [
+          "Drive to Bum La Pass (India-China border)",
+          "Border area viewing point",
+          "Madhuri Lake (Sangetsar Lake)",
+          "PTSO Lake visit",
+          "Return to Tawang"
+        ]
+      },
+      {
+        "day": 6,
+        "title": "Tawang to Bomdila",
+        "distance": "180 km",
+        "duration": "7 hours",
+        "activities": [
+          "Last morning views of Tawang",
+          "Return journey over Sela Pass",
+          "Lunch at Jung restaurant",
+          "Overnight in Bomdila"
+        ]
+      },
+      {
+        "day": 7,
+        "title": "Bomdila to Guwahati — Departure",
+        "distance": "320 km",
+        "duration": "9 hours",
+        "activities": [
+          "Early morning start",
+          "Descent through changing landscapes",
+          "Farewell Assamese lunch",
+          "Airport/station drop in Guwahati"
+        ]
+      }
+    ],
+    "highlights": [
+      "Bum La Pass — India-China border at 15,200 ft",
+      "Madhuri Lake (Sangetsar Lake) alpine paradise",
+      "Tawang Monastery — India's largest Buddhist monastery",
+      "Sela Pass snow crossing at 13,700 ft",
+      "Complete Dirang valley experience with hot springs"
+    ],
+    "inclusions": [
+      "6 nights accommodation (hotels & guesthouses)",
+      "All meals (breakfast, lunch, dinner)",
+      "4x4 SUV for entire trip",
+      "Airport pickup and drop",
+      "ILP and Bum La Pass permit assistance",
+      "Experienced mountain driver",
+      "All fuel, tolls, and parking charges"
+    ],
+    "faqs": [
+      {
+        "question": "What makes this the 'ultimate' Arunachal tour?",
+        "answer": "This is our most comprehensive Arunachal package — it includes both Bum La Pass (India-China border) and Madhuri Lake, which are not included in the shorter 5D or 6D packages. It also allows a full day in Tawang for unhurried exploration."
+      },
+      {
+        "question": "Is this trip suitable for senior citizens?",
+        "answer": "The trip involves long drives and high altitudes. Seniors in good health can enjoy it, but we recommend consulting a doctor about altitude sickness precautions. The itinerary doesn't involve any mandatory trekking."
+      },
+      {
+        "question": "What happens if weather blocks Sela Pass?",
+        "answer": "In rare cases of heavy snowfall, Sela Pass may be temporarily closed. We monitor conditions closely and adjust the itinerary if needed — usually a delay of a few hours. Full blockages are very rare during the recommended travel season."
+      }
+    ],
+    "category": "Mountains & Monastery",
+    "isTrending": false
+  }
+]
